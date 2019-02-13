@@ -1,0 +1,21 @@
+-TENEDOR: https://dle.rae.es/?id=ZT1gAHM
+
+-ZAPATILLA: https://dle.rae.es/?id=cMqELil
+
+-FLOR: https://dle.rae.es/?id=I6Rb5ZS
+
+-PANTALON: https://dle.rae.es/?id=Rifr9ro
+
+-PELOTA: https://dle.rae.es/?id=SPdVcPX|SPeziQe
+
+-PERRO: https://dle.rae.es/srv/fetch?id=SihVF3L
+
+-AGUA: https://dle.rae.es/?id=SPdVcPX|SPeziQe
+
+-SEMANA: https://dle.rae.es/?id=XV9JZTZ
+
+-TELEFONÍA: https://dle.rae.es/?id=ZLlaOqd
+
+-BOTELLA: https://dle.rae.es/?id=5yiuECX
+
+
